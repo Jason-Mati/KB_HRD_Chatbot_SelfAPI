@@ -130,3 +130,4 @@ if openai_api_key:
         st.error(f"The file at {PRE_REGISTERED_FILE_PATH} does not exist.")
 else:
     st.error("Please enter your OpenAI API Key in the sidebar to start.")
+
