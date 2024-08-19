@@ -10,6 +10,7 @@ from langchain.callbacks.base import BaseCallbackHandler
 import streamlit as st
 import os
 
+
 st.set_page_config(
     page_title="KB HRD 챗봇",
     page_icon="📃",
