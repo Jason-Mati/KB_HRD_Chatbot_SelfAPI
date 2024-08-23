@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Path to the pre-designated file
-PRE_REGISTERED_FILE_PATH = './files/hrdrule.pdf'  # Change this to your file's path
+PRE_REGISTERED_FILE_PATH = 'https://teslaowner.com'  # Change this to your file's path
 
 class ChatCallbackHandler(BaseCallbackHandler):
     message = ""
